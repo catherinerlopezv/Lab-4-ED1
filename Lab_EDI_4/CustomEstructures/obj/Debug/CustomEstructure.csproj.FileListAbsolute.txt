@@ -1,0 +1,12 @@
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\bin\Debug\CustomEstructure.dll
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\bin\Debug\CustomEstructure.pdb
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\obj\Debug\CustomEstructure.csprojAssemblyReference.cache
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\obj\Debug\CustomEstructure.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\obj\Debug\CustomEstructure.dll
+C:\Users\soporte\Desktop\Lab_EDI_2\CustomEstructures\obj\Debug\CustomEstructure.pdb
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\bin\Debug\CustomEstructure.dll
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\bin\Debug\CustomEstructure.pdb
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\obj\Debug\CustomEstructure.csprojAssemblyReference.cache
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\obj\Debug\CustomEstructure.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\obj\Debug\CustomEstructure.dll
+C:\Users\soporte\Desktop\Lab_EDI_2-master (1)\Lab_EDI_2-master\CustomEstructures\obj\Debug\CustomEstructure.pdb
