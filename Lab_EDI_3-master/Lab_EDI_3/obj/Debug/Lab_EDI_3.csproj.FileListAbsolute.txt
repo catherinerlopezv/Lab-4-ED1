@@ -1,0 +1,2 @@
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Lab_EDI_3\obj\Debug\Lab_EDI_3.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Lab_EDI_3\obj\Debug\Lab_EDI_3.csproj.CoreCompileInputs.cache

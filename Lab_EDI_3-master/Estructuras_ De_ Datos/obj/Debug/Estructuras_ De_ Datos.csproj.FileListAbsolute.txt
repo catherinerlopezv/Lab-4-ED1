@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\bin\Debug\Estructuras_ De_ Datos.dll
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\bin\Debug\Estructuras_ De_ Datos.pdb
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\obj\Debug\Estructuras_ De_ Datos.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\obj\Debug\Estructuras_ De_ Datos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\obj\Debug\Estructuras_ De_ Datos.dll
+C:\Users\ASUS\Documents\Cathy\fotos sum\Lab_EDI_3-master\Estructuras_ De_ Datos\obj\Debug\Estructuras_ De_ Datos.pdb

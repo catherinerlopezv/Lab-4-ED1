@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_EDI_3", "Lab_EDI_3\Lab_EDI_3.csproj", "{67218179-1A32-4750-B652-19CA5182CC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras_ De_ Datos", "Estructuras_ De_ Datos\Estructuras_ De_ Datos.csproj", "{AD3C5889-FF27-4607-B979-E20295A52080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67218179-1A32-4750-B652-19CA5182CC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67218179-1A32-4750-B652-19CA5182CC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67218179-1A32-4750-B652-19CA5182CC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67218179-1A32-4750-B652-19CA5182CC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3C5889-FF27-4607-B979-E20295A52080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3C5889-FF27-4607-B979-E20295A52080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3C5889-FF27-4607-B979-E20295A52080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3C5889-FF27-4607-B979-E20295A52080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F36256D-317E-44EC-8EE8-8230AEEB8AE7}
+	EndGlobalSection
+EndGlobal
